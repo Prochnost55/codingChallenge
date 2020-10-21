@@ -1,0 +1,15 @@
+$primary:hsl(256, 26%, 20%);
+$secondary:hsl(216, 30%, 68%);
+$neutral_dark:hsl(270, 9%, 17%);
+$neutral_mid:hsl(273, 4%, 51%);
+$neutral_light:hsl(0, 0%, 98%);
+
+.text-primary{
+    color: $primary;
+}
+.text-secondary{
+    color:$secondary;
+}
+.text-light{
+    color:$neutral_light;
+}
